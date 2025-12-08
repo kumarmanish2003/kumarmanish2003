@@ -8,8 +8,8 @@
 ### 👨‍💻 About Me
 - 🎓 B.Tech in **Civil Engineering** @ IIT Kanpur (Final Year)  
 - 💻 **800+ DSA problems solved** across LeetCode, GFG, Coding Ninjas, Codeforces, CodeChef  
-- 🏆 **Codeforces Specialist (1473)** | Ranked **732nd in Div. 3 Contest**  
-- ⚡ Interests: Aspiring Software Engineer, AI/ML, Finance & Trading, Psychology
+- 🏆 **Codeforces Specialist (1473)** | Ranked **732nd in Div. 3 Contest** and **Rank 924 in CF (Div. 2)**
+- ⚡ Aspiring Software Engineer, AI/ML, Finance & Trading, Psychology
 
 ---
 
