@@ -13,14 +13,37 @@
 
 ---
 
-### 🚀 Technical Skills
-**Languages:** C, C++, Python, JavaScript, SQL
-**Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
-**Web:** HTML, CSS, Tailwind CSS, React (Beginner), Flask, REST APIs
-**ML & Data:** Scikit-learn, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib, NLP, Computer Vision
-**Tools & Platforms:** Git, GitHub, VS Code, MySQL, MATLAB, QGIS, IITPAVE
-**Design / Office:** MS Excel, Photoshop, PageMaker (from DCA)
- 
+## 🚀 Technical Skills
+
+### 💻 Languages
+- C, C++, Python, JavaScript, SQL
+
+### 🧠 Core Computer Science
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
+- DBMS, Operating Systems, Computer Networks
+
+### 🌐 Web Development
+- HTML, CSS, Tailwind CSS  
+- React (Beginner)  
+- Flask, REST APIs
+
+### 🤖 Machine Learning & Data
+- Scikit-learn, TensorFlow, PyTorch  
+- NumPy, Pandas, Matplotlib  
+- Natural Language Processing (NLP)  
+- Computer Vision
+
+### 🛠 Tools & Platforms
+- Git, GitHub, VS Code  
+- MySQL, MATLAB  
+- QGIS, IITPAVE
+
+### 🎨 Design / Office
+- MS Excel  
+- Adobe Photoshop  
+- PageMaker (from DCA)
+
 ---
 
 ### 🌐 Connect With Me
