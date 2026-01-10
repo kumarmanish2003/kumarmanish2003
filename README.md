@@ -7,9 +7,9 @@
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech in **Civil Engineering** @ IIT Kanpur (Final Year)  
-- 💻 **800+ DSA problems solved** across LeetCode, GFG, Coding Ninjas, Codeforces, CodeChef  
-- 🏆 **Codeforces Specialist (1473)** | Ranked **732nd in Div. 3 Contest** and **Rank 924 in CF (Div. 2)**
-- ⚡ Aspiring Software Engineer, AI/ML, Finance & Trading, Psychology
+- 💻 **800+ DSA problems solved** across LeetCode, InterviewBit, Codeforces, GeekforGeeks, CodeChef, Coding Ninjas
+- 🏆 **Codeforces Specialist (1461)** | Ranked **732nd in Div. 3 Contest** and **Rank 924 in CF (Div. 2)**
+- ⚡ Software Engineer, AI/ML
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🌐 Web Development
 - HTML, CSS, Tailwind CSS  
 - React (Beginner)  
-- Flask, REST APIs
+- Flask, REST APIs, FastAPI
 
 ### 🤖 Machine Learning & Data
 - Scikit-learn, TensorFlow, PyTorch  
@@ -40,7 +40,7 @@
 - QGIS, IITPAVE
 
 ### 🎨 Design / Office
-- MS Excel  
+- MS Excel, Word
 - Adobe Photoshop  
 - PageMaker (from DCA)
 
