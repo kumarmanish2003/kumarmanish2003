@@ -1,13 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0db6d7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manish+Kumar;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0db6d7&center=true&vCenter=true&width=600&lines=Hii there%2C+I'm+Manish+Kumar;" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech in **Civil Engineering** @ IIT Kanpur (Final Year)  
-- 💻 **800+ DSA problems solved** across LeetCode, InterviewBit, Codeforces, GeekforGeeks, CodeChef, Coding Ninjas
+- 🎓 B.Tech in CE @ IIT Kanpur (Final Year),  Batch -(2022 - 2026)
+- 💻 **700+ DSA problems solved** across LeetCode, InterviewBit, Codeforces, GeekforGeeks, CodeChef, Coding Ninjas
 - 🏆 **Codeforces Specialist (1461)** | Ranked **732nd in Div. 3 Contest** and **Rank 924 in CF (Div. 2)**
 - ⚡ Software Engineer, AI/ML
 
