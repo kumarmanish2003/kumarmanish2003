@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech in CE @ IIT Kanpur (Final Year),  Batch - (2022 - 2026)
+- 🎓 B.Tech in CE @ IIT Kanpur (Final Year),  (Batch: 2022 - 2026)
 - 💻 **700+ DSA problems solved** across LeetCode, InterviewBit, Codeforces, GeekforGeeks, CodeChef, Coding Ninjas
 - 🏆 **Codeforces Specialist (1461)** | Ranked **732nd in Div. 3 Contest** and **Rank 924 in CF (Div. 2)**
 - ⚡ Software Engineer, AI/ML
